@@ -1,2 +1,2 @@
 # sublime-config
-My Sublime Text configs
+My Sublime Text settings & packages
